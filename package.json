@@ -1,0 +1,24 @@
+{
+  "name": "torControl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-ths": "git+https://github.com/mattcollier/node-ths.git#dev"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattcollier/torControl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattcollier/torControl/issues"
+  },
+  "homepage": "https://github.com/mattcollier/torControl"
+}
